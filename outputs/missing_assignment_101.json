@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "message": "missing_assignment_101; as_of=2026-10-25T00:00:00Z",
+  "data": [
+    {
+      "student_id": "S003",
+      "student_name": "Usman Malik",
+      "course_id": "C001"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+test_conflict_rejected (test_pipeline.PipelineTests.test_conflict_rejected) ... ok
+test_duplicate_and_cleaning (test_pipeline.PipelineTests.test_duplicate_and_cleaning) ... ok
+test_future_submission_excluded (test_pipeline.PipelineTests.test_future_submission_excluded) ... ok
+test_idempotent (test_pipeline.PipelineTests.test_idempotent) ... ok
+test_invalid_foreign_key (test_pipeline.PipelineTests.test_invalid_foreign_key) ... ok
+test_json_contract (test_pipeline.PipelineTests.test_json_contract) ... ok
+test_missing (test_pipeline.PipelineTests.test_missing) ... ok
+test_overdue_and_late (test_pipeline.PipelineTests.test_overdue_and_late) ... ok
+test_rates (test_pipeline.PipelineTests.test_rates) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.062s
+
+OK
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}
+{
+  "status": "success",
+  "message": "Pipeline completed",
+  "data": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  }
+}

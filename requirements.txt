@@ -1,0 +1,2 @@
+# Local reference pipeline uses Python standard library only.
+# Fabric notebook uses its built-in PySpark runtime; no local pip installation required.

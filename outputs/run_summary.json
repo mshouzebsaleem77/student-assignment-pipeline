@@ -1,0 +1,22 @@
+{
+  "as_of": "2026-10-25T00:00:00Z",
+  "counts": {
+    "courses": {
+      "bronze": 3,
+      "silver": 3
+    },
+    "students": {
+      "bronze": 8,
+      "silver": 8
+    },
+    "assignments": {
+      "bronze": 6,
+      "silver": 6
+    },
+    "submissions": {
+      "bronze": 7,
+      "silver": 6
+    }
+  },
+  "status": "success"
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "message": "overdue_per_student; as_of=2026-10-25T00:00:00Z",
+  "data": [
+    {
+      "student_id": "S001",
+      "student_name": "Ali Khan",
+      "overdue_count": 0,
+      "late_submission_count": 0
+    },
+    {
+      "student_id": "S002",
+      "student_name": "Sara Ahmed",
+      "overdue_count": 1,
+      "late_submission_count": 1
+    },
+    {
+      "student_id": "S003",
+      "student_name": "Usman Malik",
+      "overdue_count": 2,
+      "late_submission_count": 0
+    },
+    {
+      "student_id": "S004",
+      "student_name": "Ayesha Noor",
+      "overdue_count": 0,
+      "late_submission_count": 0
+    },
+    {
+      "student_id": "S005",
+      "student_name": "Hamza Shah",
+      "overdue_count": 0,
+      "late_submission_count": 1
+    },
+    {
+      "student_id": "S006",
+      "student_name": "Fatima Ali",
+      "overdue_count": 1,
+      "late_submission_count": 0
+    },
+    {
+      "student_id": "S007",
+      "student_name": "Bilal Hassan",
+      "overdue_count": 0,
+      "late_submission_count": 0
+    },
+    {
+      "student_id": "S008",
+      "student_name": "Zainab Raza",
+      "overdue_count": 1,
+      "late_submission_count": 0
+    }
+  ]
+}

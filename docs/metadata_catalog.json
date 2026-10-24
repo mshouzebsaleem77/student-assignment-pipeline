@@ -1,0 +1,30 @@
+{
+  "owner": "Student Assignment Engineering",
+  "classification": "Synthetic educational demonstration",
+  "entities": {
+    "students": {
+      "key": "student_id",
+      "sensitive_columns": [
+        "student_name",
+        "email"
+      ]
+    },
+    "courses": {
+      "key": "course_id"
+    },
+    "assignments": {
+      "key": "assignment_id"
+    },
+    "submissions": {
+      "key": "submission_id"
+    }
+  },
+  "silver_grain": "one enrolled student per course assignment",
+  "lineage": [
+    "source CSV",
+    "Bronze",
+    "Silver",
+    "Gold",
+    "JSON"
+  ]
+}

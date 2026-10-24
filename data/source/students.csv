@@ -1,0 +1,9 @@
+student_id,student_name,email,course_id
+S001, Ali Khan ,ALI@example.com,C001
+S002,Sara Ahmed,sara@example.com,C001
+S003,Usman Malik,usman@example.com,C001
+S004,Ayesha Noor,ayesha@example.com,C002
+S005,Hamza Shah,hamza@example.com,C002
+S006,Fatima Ali,fatima@example.com,C002
+S007,Bilal Hassan,bilal@example.com,C003
+S008,Zainab Raza,zainab@example.com,C003
